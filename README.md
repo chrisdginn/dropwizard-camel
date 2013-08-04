@@ -1,4 +1,4 @@
 dropwizard-camel
 ================
 
-Integerate Apache Camel into Dropwizard for integeration happiness.
+Use Apache Camel in Dropwizard for integration happiness.
